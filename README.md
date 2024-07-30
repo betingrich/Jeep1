@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
-    <img alt="wasi" height="400" src="https://telegra.ph/file/4ed00e0287eafc582952d.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/4ed00e0287eafc582952d.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">JEEP</h1>
   </a>
